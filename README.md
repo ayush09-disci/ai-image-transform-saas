@@ -12,10 +12,6 @@ Built using modern full-stack technologies like Next.js, Prisma, NeonDB, and Clo
 - 📤 Upload Videos & Images
 - ☁️ Cloud storage using Cloudinary
 - 🎬 Media transformations (resize, optimize, thumbnails)
-- 🤖 AI-powered features:
-  - Video summarization
-  - Caption generation
-  - Content insights
 - 📊 Dashboard to manage content
 - ⚡ Fast and scalable backend
 
